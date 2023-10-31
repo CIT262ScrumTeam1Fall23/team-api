@@ -8,7 +8,7 @@ app.get('/', (req,res) => {res.send("Hello World")});
 
 app.get('/bam', (req,res) => {res.send("Bamidele")});
 app.get('/izak', (req,res) => {res.send("Izak")});
-app.get('/eric', (req,res) => {res.send("Eric")});
+app.get('/eric', (req,res) => {res.send("eric")});
 app.get('/arianne', (req,res) => {res.send("arianne")});
 app.get('/nate', (req,res) => {res.send("Nate")});
 
